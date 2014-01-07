@@ -1,4 +1,3 @@
-// goGetJpg
 package main
 
 import (
